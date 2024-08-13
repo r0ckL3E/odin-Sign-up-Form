@@ -183,3 +183,11 @@ input[type="password"] {
     width: 100%; /* Make the input take the full width of its container */
     box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
+/* Style for focused input */
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border: 2px solid blue; /* Blue border on focus */
+    box-shadow: 0 0 5px rgba(0, 0, 255, 0.5); /* Subtle blue box-shadow */
+    outline: none; /* Remove default outline */
+}
