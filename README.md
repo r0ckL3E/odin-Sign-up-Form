@@ -1,1 +1,1 @@
-This project is intended to flex some of the new items I've been absorbing over the past few lessons in flexbox. 
+This project is intended to flex some of the new items that I've been absorbing over the past few lessons in flexbox. 
